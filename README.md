@@ -5,10 +5,10 @@
 Smart Tutor is an all-in-one Android app for private tutors, coaching-center instructors, home educators, and academic mentors. It helps replace paper registers and scattered spreadsheets with a simple way to manage teaching workflows—all offline on your device.
 
 - **Package:** `com.pabel.smarttutor`
-- **Current version:** 1.6 (Build 8)
+- **Current version:** 1.7 (Build 170)
 - **Category:** Education / Productivity
 - **Website:** [itspabel.github.io/Smart-Tutor](https://itspabel.github.io/Smart-Tutor/)
-- **Contact:** [hello@pabel.pro.bd](mailto:itstapabel@gmail.com)
+- **Contact:** [hello@pabel.pro.bd](mailto:hello@pabel.pro.bd)
 
 ## Features
 

@@ -6,12 +6,12 @@
 
 **An offline-first Android companion for private tutors, teachers, and coaching centres.**
 
-[![Version](https://img.shields.io/badge/version-2.0-6366f1?style=for-the-badge)](https://github.com/itspabel/SirErKhata/releases/tag/v2.0)
+[![Version](https://img.shields.io/badge/version-2.0-6366f1?style=for-the-badge)](https://github.com/itspabel/SirErKhata/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Offline](https://img.shields.io/badge/works-100%25%20offline-0ea5e9?style=for-the-badge)](#privacy)
 [![License](https://img.shields.io/badge/license-Proprietary-f59e0b?style=for-the-badge)](https://github.com/itspabel/SirErKhata)
 
-[**Download v2.0**](https://github.com/itspabel/SirErKhata/releases/tag/v2.0) · [Website](https://itspabel.github.io/SirErKhata/) · [Report an issue](https://github.com/itspabel/SirErKhata/issues)
+[**Download For Android**](https://github.com/itspabel/SirErKhata/releases/latest) · [Website](https://itspabel.github.io/SirErKhata/) · [Report an issue](https://github.com/itspabel/SirErKhata/issues)
 
 </div>
 
@@ -109,11 +109,11 @@ It is designed for private tutors, coaching-centre instructors, home educators, 
 
 Get the latest release and choose the APK asset compatible with your device.
 
-[![Download v2.0](https://img.shields.io/badge/Download-SirErKhata%20v2.0-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itspabel/SirErKhata/releases/tag/v2.0)
+[![Download Latest Version](https://img.shields.io/badge/Download-SirErKhata%20Latest-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itspabel/SirErKhata/releases/latest)
 
 </div>
 
-1. Open the [v2.0 release page](https://github.com/itspabel/SirErKhata/releases/tag/v2.0).
+1. Open the [Latest release page](https://github.com/itspabel/SirErKhata/releases/latest).
 2. Download the appropriate APK asset.
 3. Open the downloaded APK and follow Android's installation prompts.
 4. If Android asks for permission to install unknown apps, allow it only for the installation source you trust.

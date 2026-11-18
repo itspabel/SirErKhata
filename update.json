@@ -1,10 +1,11 @@
 {
-  "latest_version": "1.8",
-  "version_code": 180,
+  "latest_version": "2.0",
+  "version_code": 200,
   "release_url": "https://github.com/itspabel/SirErKhata/releases/latest",
   "release_notes": [
-    "Improved app performance",
-    "Redesigned app ui",
-    "Fixed reported bugs"
+    "Rebranded to SirErKhata", 
+    "migrated GitHub update checker URLs", 
+    "added 5 offline Home Screen Widgets + Settings widget installer", 
+    "fixed Saturday-first batch weekday ordering"
   ]
 }

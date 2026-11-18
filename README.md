@@ -6,7 +6,7 @@
 
 **An offline-first Android companion for private tutors, teachers, and coaching centres.**
 
-[![Version](https://img.shields.io/badge/version-2.0-6366f1?style=for-the-badge)](https://github.com/itspabel/SirErKhata/releases/latest)
+[![Version](https://img.shields.io/badge/version-2.0.1-6366f1?style=for-the-badge)](https://github.com/itspabel/SirErKhata/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Offline](https://img.shields.io/badge/works-100%25%20offline-0ea5e9?style=for-the-badge)](#privacy)
 [![License](https://img.shields.io/badge/license-Proprietary-f59e0b?style=for-the-badge)](https://github.com/itspabel/SirErKhata)

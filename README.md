@@ -1,84 +1,144 @@
-# Smart Tutor
+<div align="center">
 
-**The ultimate assistant for private tutors and coaching centers to manage students, batches, attendance, fee dues, and exams.**
+# SirErKhata
 
-Smart Tutor is an all-in-one Android app for private tutors, coaching-center instructors, home educators, and academic mentors. It helps replace paper registers and scattered spreadsheets with a simple way to manage teaching workflows—all offline on your device.
+### A simpler way to manage your teaching life.
 
-- **Package:** `com.pabel.smarttutor`
-- **Current version:** 1.7 (Build 170)
-- **Category:** Education / Productivity
-- **Website:** [itspabel.github.io/Smart-Tutor](https://itspabel.github.io/Smart-Tutor/)
-- **Contact:** [hello@pabel.pro.bd](mailto:hello@pabel.pro.bd)
+**An offline-first Android companion for private tutors, teachers, and coaching centres.**
+
+[![Version](https://img.shields.io/badge/version-2.0-6366f1?style=for-the-badge)](https://github.com/itspabel/SirErKhata/releases/tag/v2.0)
+[![Platform](https://img.shields.io/badge/platform-Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Offline](https://img.shields.io/badge/works-100%25%20offline-0ea5e9?style=for-the-badge)](#privacy)
+[![License](https://img.shields.io/badge/license-Proprietary-f59e0b?style=for-the-badge)](https://github.com/itspabel/SirErKhata)
+
+[**Download v2.0**](https://github.com/itspabel/SirErKhata/releases/tag/v2.0) · [Website](https://itspabel.github.io/SirErKhata/) · [Report an issue](https://github.com/itspabel/SirErKhata/issues)
+
+</div>
+
+---
+
+## About SirErKhata
+
+SirErKhata brings your everyday tuition-management work into one place. Organise students and batches, record attendance, follow up on fees, schedule classes, manage exams, and keep track of teaching income and expenses — without needing an account or an internet connection.
+
+It is designed for private tutors, coaching-centre instructors, home educators, and academic mentors who want a practical digital alternative to paper registers and scattered spreadsheets.
+
+## At a glance
+
+| | Details |
+|---|---|
+| **App** | SirErKhata |
+| **Latest version** | **2.0** |
+| **Package ID** | `com.pabel.smarttutor` |
+| **Platform** | Android |
+| **Category** | Education · Productivity |
+| **Storage** | Local, on-device data |
+| **Developer** | Tasfiqul Alam Pabel |
+| **Website** | [itspabel.github.io/SirErKhata](https://itspabel.github.io/SirErKhata/) |
+| **Contact** | [hello@pabel.pro.bd](mailto:hello@pabel.pro.bd) |
 
 ## Features
 
-### Students and batches
+<details open>
+<summary><strong>Students &amp; batches</strong></summary>
 
-- Organize students by batch, class, or subject.
-- Keep student profiles with contact and parent details, admission date, monthly fees, and notes.
-- Call a student directly from their profile.
-- Search students, filter by active or inactive status, and reassign batches.
+- Organise students by batch, class, or subject.
+- Maintain student profiles with contact and parent details, admission date, monthly fees, and notes.
+- Call students directly from their profiles.
+- Search students, filter active or inactive records, and reassign batches.
+</details>
 
-### Fee tracking
+<details open>
+<summary><strong>Tuition fees &amp; payments</strong></summary>
 
-- See clear **Upcoming**, **Due**, and **Overdue** fee statuses, based on student joining dates and payment deadlines.
-- Track partial payments and exact remaining balances.
+- View **Upcoming**, **Due**, and **Overdue** fee statuses.
+- Record partial payments and track exact remaining balances.
 - Record advance payments across multiple months.
 - Generate and share digital receipts through WhatsApp or SMS.
-- Use the Due List and Fee Summary dashboard to follow up on payments.
+- Follow up using the Due List and Fee Summary dashboard.
+</details>
 
-### Classes and scheduling
+<details>
+<summary><strong>Classes &amp; scheduling</strong></summary>
 
 - Set weekly routines and regular class days.
 - Schedule extra, makeup, and holiday classes.
-- Receive class reminder notifications when a scheduled batch time begins.
-- Manage vacations and holidays, with class impact tracking.
+- Receive class reminders when a scheduled batch time begins.
+- Manage vacations and holidays with class-impact tracking.
+</details>
 
-### Attendance and teaching analytics
+<details>
+<summary><strong>Attendance &amp; teaching analytics</strong></summary>
 
-- Mark students Present, Absent, Late, or Excused.
-- Review monthly attendance matrices and per-student attendance percentages.
-- Track total teaching hours, regular class days, and extra classes conducted.
+- Mark students **Present**, **Absent**, **Late**, or **Excused**.
+- Review monthly attendance matrices and individual attendance percentages.
+- Track teaching hours, regular class days, and extra classes conducted.
+</details>
 
-### Exams and progress reports
+<details>
+<summary><strong>Exams &amp; progress reports</strong></summary>
 
 - Create class tests, term exams, and subject assessments.
 - Record marks, calculate percentages, and assign grades automatically.
 - Generate student report cards to share with parents.
+</details>
 
-### Income and expenses
+<details>
+<summary><strong>Income &amp; expenses</strong></summary>
 
 - Log teaching-related expenses such as books, stationery, photocopies, and conveyance.
-- Review monthly cashflow summaries and net tutor earnings.
+- Review monthly cash-flow summaries and net tutor earnings.
 - Use suggested amounts for quicker entry.
+</details>
 
-### Privacy and customization
+<details open>
+<summary><strong>Privacy, backup &amp; personalisation</strong></summary>
 
-- Work offline; student data stays on your device.
-- Protect the app with a biometric fingerprint or PIN lock.
-- Back up and restore your data using JSON files.
-- Choose Material 3 Light or Dark Mode.
-- Customize typography with Inter, Hind Siliguri, Merriweather, Caveat, or Roboto Mono.
-- Lightweight APK, approximately 3.2 MB, with ABI-specific release builds for `arm64-v8a`, `armeabi-v7a`, and `x86_64`.
-
-## What's new in version 1.6
-
-- Added a Share App feature.
-- Improved fee due calculations to distinguish Upcoming, Due, and Overdue fees using student joining dates and payment deadlines.
-- Improved multi-month payments with dynamic month chips.
-- Added tap-to-call actions to student profiles.
-- Added a recommendation for [Pockeva](https://itspabel.github.io/Pockeva/), a personal finance and budget manager.
-- Reduced APK size by 78% and added ABI-specific release builds.
-- Improved stability, performance, and UI alignment across Android screen sizes.
+- Use the app offline; student records stay on your device.
+- Protect access with a biometric fingerprint or PIN lock.
+- Back up and restore records using JSON files.
+- Choose Light or Dark mode.
+- Customise typography with Inter, Hind Siliguri, Merriweather, Caveat, or Roboto Mono.
+</details>
 
 ## Download
 
-Visit the [Smart Tutor website](https://itspabel.github.io/Smart-Tutor/) for app information and available downloads.
+<div align="center">
+
+### SirErKhata v2.0 for Android
+
+Get the latest release and choose the APK asset compatible with your device.
+
+[![Download v2.0](https://img.shields.io/badge/Download-SirErKhata%20v2.0-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itspabel/SirErKhata/releases/tag/v2.0)
+
+</div>
+
+1. Open the [v2.0 release page](https://github.com/itspabel/SirErKhata/releases/tag/v2.0).
+2. Download the appropriate APK asset.
+3. Open the downloaded APK and follow Android's installation prompts.
+4. If Android asks for permission to install unknown apps, allow it only for the installation source you trust.
 
 ## Privacy
 
-Smart Tutor is designed to work offline, and student data stays on your device. Use the app's JSON backup and restore feature to transfer your data between devices. Keep backup files in a secure place.
+SirErKhata is designed to work offline. Student and tuition records are stored locally on your device, and the app does not require an online account. Use the built-in JSON backup and restore option when moving your records between devices. Keep backup files somewhere secure.
+
+## Support
+
+Found a bug or have a suggestion? [Open an issue](https://github.com/itspabel/SirErKhata/issues) and include your device model, Android version, and steps to reproduce the problem.
+
+For other enquiries, email [hello@pabel.pro.bd](mailto:hello@pabel.pro.bd).
 
 ## Developer
 
-**Tasfiqul Alam Pabel** 
+**Tasfiqul Alam Pabel**  
+[GitHub](https://github.com/itspabel) · [Website](https://pabel.pro.bd)
+
+---
+
+<div align="center">
+
+**SirErKhata — Keep your teaching organised.**
+
+© 2026 Tasfiqul Alam Pabel. All rights reserved.
+
+</div>

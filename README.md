@@ -28,7 +28,7 @@ It is designed for private tutors, coaching-centre instructors, home educators, 
 | | Details |
 |---|---|
 | **App** | SirErKhata |
-| **Latest version** | **2.0** |
+| **Latest version** | **2.0.1** |
 | **Package ID** | `com.pabel.smarttutor` |
 | **Platform** | Android |
 | **Category** | Education · Productivity |
@@ -105,7 +105,7 @@ It is designed for private tutors, coaching-centre instructors, home educators, 
 
 <div align="center">
 
-### SirErKhata v2.0 for Android
+### SirErKhata for Android
 
 Get the latest release and choose the APK asset compatible with your device.
 

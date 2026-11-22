@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /downloads/
+
+Sitemap: https://sirerkhata.asf.run/sitemap.xml
